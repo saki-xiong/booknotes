@@ -2,4 +2,43 @@
 layout: post
 ---
 
-测试
+### 插入Emoji
+
+:smile:
+
+### 插入公式
+
+$$
+\mathbf{V}_1\times\mathbf{V}_2 = \mathbf{X}_3 
+$$
+
+### 插入代码块
+
+```python
+import os
+import sys
+```
+
+### 插入表格
+
+| Thead | Thead2 | Thead3 | Thead4 |
+| ----- | ------ | :----- | ------ |
+|       |        |        |        |
+|       |        |        |        |
+|       |        |        |        |
+
+### 链接引用与脚注
+
+[1]: 参考文献1
+
+脚注[^ 1 ]
+
+
+
+[^ 1]:脚注1
+
+
+
+
+
+
