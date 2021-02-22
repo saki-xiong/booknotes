@@ -8,13 +8,20 @@ layout: post
 
 ### 插入公式
 
-$$\(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\)$$
+
+$$
+\(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\)
+$$
+
 
 $$
 \mathbf{V}_1\times\mathbf{V}_2 = \mathbf{X}_3 
 $$
 
-$$\sum_{i=0}^{100} a^{i}$$
+
+$$
+\sum_{i=0}^{100} a^{i}
+$$
 
 
 ### 插入代码块
