@@ -1,6 +1,6 @@
 ---
 layout: default
-title: test markdown
+title: test_markdown
 ---
 #测试
 ##测试一下
