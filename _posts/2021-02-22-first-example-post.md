@@ -24,7 +24,7 @@ layout: post
 行内公式: \\(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\\)
 
 
-$ \mathbf{V}_1\times\mathbf{V}_2 = \mathbf{X}_3 $
+test $ \mathbf{V}_1\times\mathbf{V}_2 = \mathbf{X}_3 $
 
 
 $$
