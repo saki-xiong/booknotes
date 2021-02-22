@@ -27,6 +27,11 @@ layout: post
 $ \mathbf{V}_1\times\mathbf{V}_2 = \mathbf{X}_3 $
 
 
+$$
+\mathbf{V}_1\times\mathbf{V}_2 = \mathbf{X}_3
+$$
+
+
 ### 插入代码块
 
 ```python
