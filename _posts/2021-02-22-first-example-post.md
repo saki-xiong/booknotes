@@ -8,7 +8,7 @@ layout: post
 
 ### 插入公式
 
-\(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\)
+$$\(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\)$$
 
 $$
 \mathbf{V}_1\times\mathbf{V}_2 = \mathbf{X}_3 
