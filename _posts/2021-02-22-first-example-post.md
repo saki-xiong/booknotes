@@ -7,7 +7,7 @@ layout: post
         MathJax.Hub.Config({
             tex2jax: {
             skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-            inlineMath: [['$','$'], ["\\(","\\)"]]
+            inlineMath: [['$','$'], ["\(","\)"]]
             }
         });
     </script>
@@ -21,7 +21,7 @@ layout: post
 ### 插入公式
 
 
-\\(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\\)
+行内公式 \(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\)
 
 
 $$
