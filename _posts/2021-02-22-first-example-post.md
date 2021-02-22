@@ -14,7 +14,7 @@ $$
 \mathbf{V}_1\times\mathbf{V}_2 = \mathbf{X}_3 
 $$
 
-\sum_{i=0}^{100} a^{i}
+$$\sum_{i=0}^{100} a^{i}$$
 
 
 ### 插入代码块
