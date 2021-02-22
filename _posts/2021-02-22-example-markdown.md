@@ -4,7 +4,9 @@ title: "example markdown"
 ---
 
 大写：**bold**
+
 斜体：_italic_
+
 删除线：~~strikethrough~~.
 
 [链接: About]({{ '/about.html' | absolute_url }}).
@@ -41,9 +43,11 @@ print("hello world!")
 ###### [](#header-6)Header 6
 
 插入表格
+
 | 表头1        | 表头2          | 表头3 |
 |:-------------|:------------------|:------|
 | 1           | 2 | 3  |
+
 
 ### 水平线
 
