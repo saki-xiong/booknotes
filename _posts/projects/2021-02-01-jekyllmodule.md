@@ -7,9 +7,10 @@ meta:
   keywords: "Jekyll, Pineapple"
 
 project:
-  title: "jekyll使用模板"
+  title: "jekyllmodule"
   type: "Jekyll"
   url: "https://github.com/arnolds/pineapple"
+  logo: "/assets/images/projects/jekyllmodule/logo.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
@@ -19,10 +20,10 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/redpineapple/desktop.jpg"
+    url: "/assets/images/projects/jekyllmodule/desktop.jpg"
     alt: "Red Pineapple website on a desktop device"
   - image:
-    url: "/assets/images/projects/redpineapple/mobile.jpg"
+    url: "/assets/images/projects/jekyllmodule/mobile.jpg"
     alt: "Red Pineapple website on a mobile device"
 ---
 <p>Real contents.</p>
