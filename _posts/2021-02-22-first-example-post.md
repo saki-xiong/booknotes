@@ -7,7 +7,7 @@ layout: post
         MathJax.Hub.Config({
             tex2jax: {
             skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-            inlineMath: [['$','$'], ["\\(","\\)"]]
+            inlineMath: [['$$','$$'], ["\\(","\\)"]]
             }
         });
     </script>
@@ -31,6 +31,7 @@ $$
 \mathbf{V}_1\times\mathbf{V}_2 = \mathbf{X}_3
 $$
 
+$$ \mathbf{V}_1\times\mathbf{V}_2 = \mathbf{X}_3 $$
 
 ### 插入代码块
 
